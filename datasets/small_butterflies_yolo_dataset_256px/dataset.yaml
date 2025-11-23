@@ -1,0 +1,7 @@
+path: /Volumes/Abyss/Dropbox/my_DataScience/Repos/gpu_benchmark_yolo/datasets/small_butterflies_yolo_dataset_256px
+train: images/train
+val: images/val
+test: images/test
+
+names:
+    0: butterfly
